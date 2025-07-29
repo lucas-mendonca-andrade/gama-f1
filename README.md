@@ -1,5 +1,7 @@
 ![GAMA logo](https://github.com/openml-labs/gama/blob/master/images/logos/Logo-With-Grey-Name-Transparent.png)
 
+This project is a fork from GAMA AutoML just to add binary f1 score as evaluating metric
+
 **G**eneral **A**utomated **M**achine learning **A**ssistant  
 An automated machine learning tool based on genetic programming.  
 Make sure to check out the [documentation](https://openml-labs.github.io/gama/).
